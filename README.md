@@ -1,3 +1,3 @@
 # practica-git
 
-Erasé un camaleón
+Erasé un camaleón que estaba perdido
